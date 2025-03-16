@@ -1,0 +1,147 @@
+.body1 {
+    background-color: hsl(0, 0%, 8%);
+    color: hsl(0, 0%, 8%);
+
+
+}
+
+.div1 {
+background-color: hsl(0, 0%, 12%);
+color: hsl(0, 0%, 12%);
+border-radius: 20px;
+width: 370px;
+height: 600px;
+position: fixed;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+
+
+}
+.avatar {
+    width: 100px;
+height: 100px;
+border-radius: 50%;
+object-fit: cover;
+position: fixed;
+top: 15%;
+left: 50%;
+transform: translate(-50%, -50%);
+
+
+}
+
+button {
+    background-color: hsl(0, 0%, 20%);
+    color: white;
+width: 80%;
+height: 45px;
+border-radius: 8px;
+margin: 0%;
+padding: 0%;
+border: none;
+outline: none;
+
+
+
+}
+button:hover {
+background-color: hsl(75, 89%, 21%);
+font-size: larger;
+
+
+}
+    
+
+
+.button1 {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+.button2 {
+    position: fixed;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+.button3 {
+    position: fixed;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.button4 {
+    position: fixed;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.button5 {
+    position: fixed;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.p1 {
+font-size: 25px;
+color: white;
+width: 80%;
+position: fixed;
+top: 25%;
+left: 64.5%;
+transform: translate(-50%, -50%);
+
+}
+.p2 {
+    font-size: 14px;
+    color: greenyellow;
+    width: 80%;
+    position: fixed;
+    top: 32%;
+    left: 66.5%;
+    transform: translate(-50%, -50%);
+}
+.p3 {
+    font-size: 13px;
+    color: white;
+    width: 80%;
+    position: fixed;
+    top: 39%;
+    left: 55.5%;
+    transform: translate(-50%, -50%);
+}
+.table1 .tr1 {
+    width: 90%;
+    height: auto;
+    border-color: aqua;
+    border-width: 5px;
+}
+.a1 {
+    color: white;
+    text-decoration: none;
+}
+.a2 {
+    color: white;
+    text-decoration: none;
+}
+.a3 {
+    color: white;
+    text-decoration: none;
+}
+.a4 {
+    color: white;
+    text-decoration: none;
+}
+.a5 {
+    color: white;
+    text-decoration: none;
+}
+body {
+font-family: inter;
+font-weight: 400, 500, 600;
+
+}
